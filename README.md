@@ -33,7 +33,7 @@ This course is a crash course in two branches of mathematics which are crucial t
 At the end of this course you will use raw sensor data (which give information about distance driven, acceleration, and rotation rates) to reconstruct a vehicle's trajectory through space.
 
 ### Computer Vision and Machine Learning
-In this course you’ll learn how a computer sees an image, and how we can use machine learning to teach a computer to identify images programmatically. **In this project i get 98% accuracy**
+In this course you’ll learn how a computer sees an image, and how we can use machine learning to teach a computer to identify images programmatically. **In this project i get 100% accuracy**
 
 
 I was part of the scholarship of lyft and udacity
